@@ -14,7 +14,7 @@ const assetMap = [
   { id: "hero-image", url: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940", alt: "A woman with digital code projections on her face, representing technology and future concepts." },
   { id: "feature-img1", url: "https://images.pexels.com/photos/669612/pexels-photo-669612.jpeg?auto=compress&cs=tinysrgb&h=650&w=940", alt: "Detailed charts and graphs on a document next to a laptop, representing data analysis." },
   { id: "feature-img2", url: "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940", alt: "Flatlay of business report with colorful charts, a notebook, and a laptop for data analysis on a desk." },
-  { id: "testimonials-bg", url: "https://images.pexels.com/photos/8387821/pexels-photo-8387821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940", alt: "Two women exploring fashion choices at a chic boutique, sharing insights and styles." },
+  { id: "testimonials-bg", url: "https://images.pexels.com/photos/8387821/pexels-photo-8387821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940", alt: "Two women exploring fashion choices at a chic boutique, sharing insights and styles." }
 ];
 
 export default function Home() {
